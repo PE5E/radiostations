@@ -1,0 +1,28 @@
+Name,url,Country, Description
+Radio 1,https://icecast.omroep.nl/radio1-sb-mp3,NL,Public Radio
+Radio 2,https://icecast.omroep.nl/radio2-sb-mp3,NL,Public Radio
+Radio 3FM,https://icecast.omroep.nl/3fm-sb-mp3,NL,Public Radio
+Radio 4,https://icecast.omroep.nl/radio4-sb-mp3,NL,Public Radio
+Radio 5,https://icecast.omroep.nl/radio5-sb-mp3,NL,Public Radio
+Radio Release,https://mscp3.live-streams.nl:8142/live,NL,Nostalgic
+Groot Nieuws Radio,https://29083.live.streamtheworld.com/GNRAAC.aac?sbmid=fa4c4c08-2f5a-4b19-ac31-dfdc26a99e3a,NL,Christian
+RTV Noord,https://d25kfonj3meu2l.cloudfront.net/icecast/rtvnoord/radio,NL,Local radio,
+RTV Drenthe,https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio,Local radio,
+Kink FM,https://28973.live.streamtheworld.com/KINKAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
+Kink Distortion,https://25243.live.streamtheworld.com/KINK_DISTORTIONAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
+Kink Nineties,https://28983.live.streamtheworld.com/KINK_90SAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
+Kink Dna,https://22323.live.streamtheworld.com/KINK_DNAAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
+Arrow Classic Rock,https://stream.player.arrow.nl/arrow,NL,Rock
+Classic FM,https://media-ssl.musicradio.com/ClassicFM,UK,Classic
+
+Radio 88 dans,https://streaming.943.se/radio88dans,SE,Dansband
+Radio 88,https://streaming.943.se/radio88,SE,
+Radio Höganäs,http://deb.patrikmalmgrenrask.se:10000/high/,SE,Local radio
+P1 Sverige,https://edge1.sr.se/p1-mp3-96,SE,Public radio
+
+Radio Paradise Main mix,https://stream.radioparadise.com/aac-128,USA,
+Radio Paradise Rock mix,https://stream.radioparadise.com/rock-128,USA,
+Heart Beat Radio 70's,http://s1.nexuscast.com:8137/;?1477429551105.mp3,USA,
+Back to the 80's,http://s1.nexuscast.com:8135/;;audio.mp3,USA,
+Back to the 90's,http://s1.nexuscast.com:8145/;?1477428778121.mp3,USA,
+
