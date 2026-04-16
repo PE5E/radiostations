@@ -5,23 +5,22 @@ Radio 3FM,https://icecast.omroep.nl/3fm-sb-mp3,NL,Public Radio
 Radio 4,https://icecast.omroep.nl/radio4-sb-mp3,NL,Public Radio
 Radio 5,https://icecast.omroep.nl/radio5-sb-mp3,NL,Public Radio
 
+RTV Noord,https://d25kfonj3meu2l.cloudfront.net/icecast/rtvnoord/radio,NL,Regional radio
+Omrop Fryslân,https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3,NL,Regional radio
+RTV Drenthe,https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio,NL,Regional radio
+RTV Oost,https://d34cg2bnc08ruf.cloudfront.net/icecast/rtvoost/radio-oost-mp3,NL,Regional radio
+Omroep Gelderland,https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland,NL,Regional radio
+Omroep Flevoland,-,NL,Regional radio
+Radio M Utrecht,https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3,NL,Regional radio
+NH,https://i1.cdn.jetstre.am:8000/sz=nhnieuws=NHRadio_mp3?token=b4f7f5ccae65fdffffe376ed4695026e&time=69e123c4,NL,Regional radio
+Omroep West,https://liveradio.omroepwest.nl/,NL,Regional radio
+Omroep Rijnmond,-,NL,Regional radio
+Omroep Zeeland,https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio,NL,Regional radio
+Omroep Brabant,https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq,NL,Regional radio
+Omroep L1,https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3,NL,Regional radio
+
 Radio Release,https://mscp3.live-streams.nl:8142/live,NL,Nostalgic
 Groot Nieuws Radio,https://29083.live.streamtheworld.com/GNRAAC.aac?sbmid=fa4c4c08-2f5a-4b19-ac31-dfdc26a99e3a,NL,Christian
-
-RTV Noord,https://d25kfonj3meu2l.cloudfront.net/icecast/rtvnoord/radio,NL,Local radio
-Omrop Fryslân,https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3,NL,Local radio
-RTV Drenthe,https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio,NL,Local radio
-RTV Oost,https://d34cg2bnc08ruf.cloudfront.net/icecast/rtvoost/radio-oost-mp3,NL,Local radio
-Omroep Gelderland,https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland,NL,Local radio
-Omroep Flevoland,,NL,Local radio
-RTV Utrecht,,NL,Local radio
-NH Media,,NL,Local radio
-Omroep West,,NL,Local radio
-Omroep Rijnmond,,NL,Local radio
-Omroep Zeeland,,NL,Local radio
-Omroep Brabant,,NL,Local radio
-Omroep L1,,NL,Local radio
-
 Kink FM,https://28973.live.streamtheworld.com/KINKAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
 Kink Distortion,https://25243.live.streamtheworld.com/KINK_DISTORTIONAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
 Kink Nineties,https://28983.live.streamtheworld.com/KINK_90SAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
@@ -29,14 +28,49 @@ Kink Dna,https://22323.live.streamtheworld.com/KINK_DNAAAC2.aac?sbmid=fe3ae136-a
 Arrow Classic Rock,https://stream.player.arrow.nl/arrow,NL,Rock
 Classic FM,https://media-ssl.musicradio.com/ClassicFM,UK,Classic
 
-Radio 88 dans,https://streaming.943.se/radio88dans,SE,Dansband
-Radio 88,https://streaming.943.se/radio88,SE,
-Radio Höganäs,http://deb.patrikmalmgrenrask.se:10000/high/,SE,Local radio
-P1 Sverige,https://edge1.sr.se/p1-mp3-96,SE,Public radio
+SR P1,https://live1.sr.se/p1-aac-128,SE,Public radio
+SR P2,https://live1.sr.se/p2-aac-128,SE,Public radio
+SR P3,https://live1.sr.se/p3-aac-128,SE,Public radio
+SR P3 Din gata,https://live1.sr.se/dingata-aac-128,SE,Public radio
+SR P4 Plus,https://live1.sr.se/p4plus-aac-128,SE,Public radio
+SR P6,https://live1.sr.se/p6-aac-128,SE,Public radio
+Radioapans knattekanal,https://live1.sr.se/knattekanalen-aac-128 ,SE,Public radio
+Sameradion,https://live1.sr.se/sameradion-aac-128,SE,Public radio
+Sveriges Radio Finska,https://live1.sr.se/finska-aac-128,SE,Public radio
 
-Radio Paradise Main mix,https://stream.radioparadise.com/aac-128,USA,
-Radio Paradise Rock mix,https://stream.radioparadise.com/rock-128,USA,
+SR P4 Blekinge,https://live1.sr.se/p4blek-aac-128,SE,Regional radio
+SR P4 Dalarna,https://live1.sr.se/p4dala-aac-128,SE,Regional radio
+SR P4 Gotland,https://live1.sr.se/p4gotl-aac-128,SE,Regional radio
+SR P4 Gävleborg,https://live1.sr.se/p4gavl-aac-128,SE,Regional radio
+SR P4 Göteborg,https://live1.sr.se/p4gbg-aac-128,SE,Regional radio
+SR P4 Halland,https://live1.sr.se/p4hall-aac-128,SE,Regional radio
+SR P4 Jämtland,https://live1.sr.se/p4jmtl-aac-128,SE,Regional radio
+SR P4 Jönköping,https://live1.sr.se/p4jkpg-aac-128,SE,Regional radio
+SR P4 Kalmar,https://live1.sr.se/p4kalm-aac-128,SE,Regional radio
+SR P4 Kristianstad,https://live1.sr.se/p4krist-aac-128,SE,Regional radio
+SR P4 Kronoberg,https://live1.sr.se/p4kron-aac-128,SE,Regional radio
+SR P4 Malmöhus,https://live1.sr.se/p4malm-aac-128,SE,Regional radio
+SR P4 Norrbotten,https://live1.sr.se/p4nbtn-aac-128,SE,Regional radio
+SR P4 Sjuhärad,https://live1.sr.se/p4sju-aac-128,SE,Regional radio
+SR P4 Skaraborg,https://live1.sr.se/p4skbg-aac-128,SE,Regional radio
+SR P4 Stockholm,https://live1.sr.se/p4sth-aac-128,SE,Regional radio
+SR P4 Sörmland,https://live1.sr.se/p4sorm-aac-128,SE,Regional radio
+SR P4 Uppland,https://live1.sr.se/p4uppl-aac-128,SE,Regional radio
+SR P4 Värmland,https://live1.sr.se/p4vrml-aac-128,SE,Regional radio
+SR P4 Väst,https://live1.sr.se/p4vast-aac-128,SE,Regional radio
+SR P4 Västerbotten,https://live1.sr.se/p4vbtn-aac-128,SE,Regional radio
+SR P4 Västernorrland,https://live1.sr.se/p4vnrl-aac-128,SE,Regional radio
+SR P4 Västmanland,https://live1.sr.se/p4vstm-aac-128,SE,Regional radio
+SR P4 Örebro,https://live1.sr.se/p4oreb-aac-128,SE,Regional radio
+SR P4 Östergötland,https://live1.sr.se/p4ostg-aac-128,SE,Regional radio
+
+Radio 88 dans,https://streaming.943.se/radio88dans,SE,Music Dansband
+Radio 88,https://streaming.943.se/radio88,SE,Music
+Radio Höganäs,http://deb.patrikmalmgrenrask.se:10000/high/,SE,Local radio
+
+Radio Paradise Main mix,https://stream.radioparadise.com/aac-128,USA,Music
+Radio Paradise Rock mix,https://stream.radioparadise.com/rock-128,USA,Music Rock
 Heart Beat Radio 70's,http://s1.nexuscast.com:8137/;?1477429551105.mp3,USA,
-Back to the 80's,http://s1.nexuscast.com:8135/;;audio.mp3,USA,
-Back to the 90's,http://s1.nexuscast.com:8145/;?1477428778121.mp3,USA,
+Back to the 80's,http://s1.nexuscast.com:8135/;;audio.mp3,USA,Music 80s
+Back to the 90's,http://s1.nexuscast.com:8145/;?1477428778121.mp3,USA,Music 90s
 
