@@ -1,4 +1,18 @@
 Name,url,Country, Description
+
+Radio Release,https://mscp3.live-streams.nl:8142/live,NL,Commercial Free
+Disco Classic Radio,https://cc6.beheerstream.com/proxy/discoclassicradio1?mp=/stream,NL,Commercial Free
+Frenchcore24FM,https://a8.asurahosting.com:7890/radio.mp3,NL,
+Kids Rave Radio,https://s3.radio.co/se1c4cc1fb/listen,UK,
+90s90s Dance Radio,https://regiocast.streamabc.net/regc-90s90sdanceradio-mp3-192-7820726,DE,
+
+SomaFM: Black Rock FM,https://ice2.somafm.com/brfm-128-aac,,Commercial Free
+SomaFM: Boot Liquor,https://ice2.somafm.com/bootliquor-128-aac,,Commercial Free
+SomaFM: Deep Space One,https://ice2.somafm.com/deepspaceone-128-aac,,Commercial Free
+SomaFM: Indiepop,https://ice2.somafm.com/indiepop-128-aac,,Commercial Free
+SomaFM: Metal Detector,https://ice2.somafm.com/metal-128-aac,,Commercial Free
+SomaFM: Seventies,https://ice2.somafm.com/seventies-128-aac,,Commercial Free
+
 Radio 1,https://icecast.omroep.nl/radio1-sb-mp3,NL,Public Radio
 Radio 2,https://icecast.omroep.nl/radio2-sb-mp3,NL,Public Radio
 Radio 3FM,https://icecast.omroep.nl/3fm-sb-mp3,NL,Public Radio
@@ -19,14 +33,22 @@ Omroep Zeeland,https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroe
 Omroep Brabant,https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq,NL,Regional radio
 Omroep L1,https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3,NL,Regional radio
 
-Radio Release,https://mscp3.live-streams.nl:8142/live,NL,Nostalgic
+100% NL,https://25683.live.streamtheworld.com/100PNL_AAC.aac?dist=100p_web&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none,NL,Commercial
+BNR,https://stream.bnr.nl/bnr_mp3_128_01,NL,Commercial
+Qmusic,https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac,NL,Commercial
+Radio 10,https://22193.live.streamtheworld.com/RADIO10.mp3?dist=radio10_webx&ttag=talpa_consent%3A0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&gdpr=1,NL,Commercial
+Radio 538,https://22353.live.streamtheworld.com/RADIO538.mp3?dist=538_webx&ttag=talpa_consent%3A0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none,NL,Commercial
+Radio Veronica,https://28513.live.streamtheworld.com/VERONICAAAC.aac?dist=veronica_web&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none,NL,Commercial
+Sky Radio,https://22323.live.streamtheworld.com/SKYRADIO.mp3?dist=skyradio_webx&ttag=talpa_consent%3A0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none,NL,Commercial
+Slam!,https://22323.live.streamtheworld.com/SLAM_AAC.aac?dist=slam_web&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none,NL,Commercial
+Sublime,https://25333.live.streamtheworld.com/SUBLIMEAAC.aac?dist=sublime_web&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none,NL,Commercial
+
 Groot Nieuws Radio,https://29083.live.streamtheworld.com/GNRAAC.aac?sbmid=fa4c4c08-2f5a-4b19-ac31-dfdc26a99e3a,NL,Christian
 Kink FM,https://28973.live.streamtheworld.com/KINKAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
 Kink Distortion,https://25243.live.streamtheworld.com/KINK_DISTORTIONAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
 Kink Nineties,https://28983.live.streamtheworld.com/KINK_90SAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
 Kink Dna,https://22323.live.streamtheworld.com/KINK_DNAAAC2.aac?sbmid=fe3ae136-acfe-4590-9aea-349265db8419,NL,
 Arrow Classic Rock,https://stream.player.arrow.nl/arrow,NL,Rock
-Classic FM,https://media-ssl.musicradio.com/ClassicFM,UK,Classic
 
 SR P1,https://live1.sr.se/p1-aac-128,SE,Public radio
 SR P2,https://live1.sr.se/p2-aac-128,SE,Public radio
@@ -68,9 +90,12 @@ Radio 88 dans,https://streaming.943.se/radio88dans,SE,Music Dansband
 Radio 88,https://streaming.943.se/radio88,SE,Music
 Radio Höganäs,http://deb.patrikmalmgrenrask.se:10000/high/,SE,Local radio
 
+Classic FM,https://media-ssl.musicradio.com/ClassicFM,UK,Classic
+
 Radio Paradise Main mix,https://stream.radioparadise.com/aac-128,USA,Music
 Radio Paradise Rock mix,https://stream.radioparadise.com/rock-128,USA,Music Rock
 Heart Beat Radio 70's,http://s1.nexuscast.com:8137/;?1477429551105.mp3,USA,
 Back to the 80's,http://s1.nexuscast.com:8135/;;audio.mp3,USA,Music 80s
 Back to the 90's,http://s1.nexuscast.com:8145/;?1477428778121.mp3,USA,Music 90s
+Ohm Radio,https://das-edge15-live365-dal02.cdnstream.com/a92834,USA,LPFM
 
