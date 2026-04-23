@@ -13,6 +13,8 @@ SomaFM: Indiepop,https://ice2.somafm.com/indiepop-128-aac,,Commercial Free
 SomaFM: Metal Detector,https://ice2.somafm.com/metal-128-aac,,Commercial Free
 SomaFM: Seventies,https://ice2.somafm.com/seventies-128-aac,,Commercial Free
 
+.977 50s, 60s Hits,https://26433.live.streamtheworld.com/977_OLDIES_SC,USA,
+
 Radio 1,https://icecast.omroep.nl/radio1-sb-mp3,NL,Public Radio
 Radio 2,https://icecast.omroep.nl/radio2-sb-mp3,NL,Public Radio
 Radio 3FM,https://icecast.omroep.nl/3fm-sb-mp3,NL,Public Radio
