@@ -101,3 +101,16 @@ Back to the 80's,http://s1.nexuscast.com:8135/;;audio.mp3,USA,Music 80s
 Back to the 90's,http://s1.nexuscast.com:8145/;?1477428778121.mp3,USA,Music 90s
 Ohm Radio,https://das-edge15-live365-dal02.cdnstream.com/a92834,USA,LPFM
 
+RNE,https://d131.rndfnk.com/star/crtve/rne1/nav/aac/128/ct/stream.aac?cid=01GENZSPVYG0R84NK9E1C77RSZ&sid=3DPQvQRiVwAp69dcTFXX0jK0AZM&token=FMn6Lew4PIPdl9FLsjqVgzJbn3W1s96AyDdSujH9584&tvf=iWjDnEFyrRhkMTMxLnJuZGZuay5jb20,ES,Public Radio
+RNE5,https://f111.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=3DPSDxmT8IEbhVdJHkY2jeVugOq&token=rMPDH25xfydItVSTx7q7VsWO30kS45qCmvU4Yu4n5Pg&tvf=UYOTCNdyrRhmMTExLnJuZGZuay5jb20,ES,Public Radio
+Los40,https://20043.live.streamtheworld.com/LOS40AAC.aac,ES,
+Los40 Classic,https://29103.live.streamtheworld.com/LOS40_CLASSICAAC.aac,ES,
+Los40 Dance,https://25643.live.streamtheworld.com/LOS40_DANCEAAC.aac,ES,
+Los40 Urban,https://23553.live.streamtheworld.com/LOS40_URBANAAC.aac,ES,
+Los40 Els40,https://27823.live.streamtheworld.com/LOS40_CATAAC.aac,ES,
+Radio Tentación,https://streaming6.locucionar.com:24250/stream,ES,
+Radio Intercontinental,https://cast5.servcast.net/proxy/inter/stream,ES,
+Informa Radio,https://24x7.red:42045/informa,ES,
+Free FM Classics,https://xxdelgado.radioca.st/;,ES,
+Radio María - España,https://dreamsiteradiocp6.com/proxy/rmspain12?mp=/stream,ES,
+
