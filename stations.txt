@@ -91,6 +91,8 @@ SR P4 Östergötland,https://live1.sr.se/p4ostg-aac-128,SE,Regional radio
 Radio 88 dans,https://streaming.943.se/radio88dans,SE,Music Dansband
 Radio 88,https://streaming.943.se/radio88,SE,Music
 Radio Höganäs,http://deb.patrikmalmgrenrask.se:10000/high/,SE,Local radio
+Dansbandkanalen,https://stream.dbmedia.se/dbk96,SE,Music Dansband
+Dansbandkanalen (Klassiker),https://stream.dbmedia.se/dbkjul96,SE,Music Dansband
 
 Classic FM,https://media-ssl.musicradio.com/ClassicFM,UK,Classic
 
