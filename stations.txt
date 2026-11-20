@@ -93,6 +93,11 @@ Radio 88,https://streaming.943.se/radio88,SE,Music
 Radio Höganäs,http://deb.patrikmalmgrenrask.se:10000/high/,SE,Local radio
 Dansbandkanalen,https://stream.dbmedia.se/dbk96,SE,Music Dansband
 Dansbandkanalen (Klassiker),https://stream.dbmedia.se/dbkjul96,SE,Music Dansband
+Guldkanalen (60-tal),https://stream.dbmedia.se/gk60tal96,SE,60s
+Guldkanalen (70-tal),https://stream.dbmedia.se/gk70tal96,SE,70s
+Guldkanalen (80-tal),https://stream.dbmedia.se/gk80tal96,SE,80s
+Guldkanalen (90-tal),https://stream.dbmedia.se/gk90tal96,SE,90s
+Country Rocks Radio,https://stream.dbmedia.se/crr96,SE,Country
 
 Classic FM,https://media-ssl.musicradio.com/ClassicFM,UK,Classic
 
